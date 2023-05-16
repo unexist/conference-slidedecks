@@ -1,0 +1,5 @@
+= List of conference slidedecks
+
+- 2022-09-15 - Specification by Example @ code.talks
+- 2022-11-08 - Specification by Example @ W-Jax
+- 2023-05-09 - Orchestrierung mit Nomad @ Jax
